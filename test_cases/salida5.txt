@@ -1,0 +1,36 @@
+Operator id: 0 336 107 124.45
+Operator id: 1 64 17 0.00
+Operator id: 2 49 34 18.41
+Operator id: 3 233 58 99.78
+Operator id: 4 164 82 60.61
+Operator id: 5 234 69 98.02
+Operator id: 6 282 179 136.08
+Operator id: 7 200 52 54.04
+Operator id: 8 228 153 108.81
+Operator id: 9 113 124 131.18
+Operator id: 10 375 170 156.03
+Operator id: 11 199 95 127.57
+Operator id: 12 192 45 146.32
+Operator id: 13 218 57 93.09
+Operator id: 14 152 105 113.97
+Operator id: 15 484 230 300.99
+Operator id: 16 293 170 140.85
+Operator id: 17 227 101 115.52
+Customer id: 0 272.37 43.61
+Customer id: 1 120.33 34.60
+Customer id: 2 95.24 65.62
+Customer id: 3 134.37 90.77
+Customer id: 4 124.06 106.49
+Customer id: 5 174.97 41.54
+Customer id: 6 172.87 45.51
+Customer id: 7 95.63 129.71
+Customer id: 8 170.55 16.20
+Customer id: 9 100.86 137.72
+Customer id: 10 140.40 26.29
+Customer id: 11 120.77 120.03
+Customer id: 12 158.81 36.44
+Customer id: 13 89.12 107.97
+Customer id: 14 146.88 0.24
+a: 211
+f: 177
+a: 234

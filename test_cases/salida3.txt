@@ -1,0 +1,13 @@
+Operator id: 0 0 0 0.00
+Operator id: 1 0 0 0.00
+Operator id: 2 64 11 36.37
+Operator id: 3 7 0 2.03
+Operator id: 4 28 10 13.53
+Operator id: 5 0 0 0.00
+Customer id: 0 0.00 4.11
+Customer id: 1 1.28 0.00
+Customer id: 2 0.00 6.70
+Customer id: 3 0.00 23.29
+c: 29
+d: 10
+c: 20
